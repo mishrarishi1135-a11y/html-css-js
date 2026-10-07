@@ -16,3 +16,8 @@ span -> inline container
 form -> Form
 input -> input field
 button -> Button
+
+HTML = hyper text markup language and it is used to create the structure of web page. It is not a programming language, it's a markup language.
+
+HTML uses tags to define elements like <p>Hello World</p>
+Here: <p> opening tab, Hello World - content, </p> -> closing tag and together they form an HTML element.
